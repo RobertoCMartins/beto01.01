@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-acrescentando dados.
-=======
->>>>>>> 110d84fa0eb71f83f6f2d02ee45f3b4332729e7e
+Acrescentando dados.
