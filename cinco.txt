@@ -1,7 +1,1 @@
-Fez um commit
-
-git revert <commit id>
-
-Um novo commit
-
-Removendo uma lnha
+acrescentando dados.
